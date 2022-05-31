@@ -1,8 +1,8 @@
 {
-  "homepage": "https://sghobj.github.io/portfolio",
+  "homepage": "http://sghobj.github.io/portfolio",
   "name": "my-website",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.0",
     "@chakra-ui/react": "^2.0.2",
