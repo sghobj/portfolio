@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b565c3-c663-431f-b8a7-6e4180bb23df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/index.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +53,11 @@
       <recent name="D:\WebStormProjects\my-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStormProjects\my-website\public" />
       <recent name="D:\WebStormProjects\my-website\src\components\backgroundShape" />
       <recent name="D:\WebStormProjects\my-website\src" />
       <recent name="D:\WebStormProjects\my-website\src\components\navBar" />
       <recent name="D:\WebStormProjects\my-website\src\components" />
-      <recent name="D:\WebStormProjects\my-website\src\pages\about" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +70,7 @@
       <updated>1652866363163</updated>
       <workItem from="1652866370095" duration="11489000" />
       <workItem from="1652957166843" duration="32320000" />
-      <workItem from="1653930123261" duration="22009000" />
+      <workItem from="1653930123261" duration="23698000" />
     </task>
     <servers />
   </component>
